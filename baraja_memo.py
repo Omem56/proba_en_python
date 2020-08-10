@@ -1,5 +1,4 @@
-#debes modificar este programa para calcular todas las probabilidades de las figuras del poker en una mano
-#ya casi todo funciona, solo falta modificar para la escalera
+# Este algoritmo calcula las probabilidades de obtener alguna figura del poker cuando se reparte una mano (de longitud a determinar)
 import random
 import collections
 
