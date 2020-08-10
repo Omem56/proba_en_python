@@ -1,2 +1,2 @@
-# proba_en_python
+# Proba_en_python
 Algunos algoritmos de probabilidad en python
